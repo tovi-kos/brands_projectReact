@@ -1,0 +1,1 @@
+ export const renderUrl="https://node-project-k2ry.onrender.com";
