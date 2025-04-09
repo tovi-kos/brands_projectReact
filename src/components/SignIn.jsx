@@ -164,7 +164,7 @@ function SignIn() {
 
                         {/* reCAPTCHA */}
                         <ReCAPTCHA
-                            sitekey="6LfSgf0qAAAAANDEPRUyJIXcA4ivmqsYMsxzDy2R"
+                            sitekey="6LfVvQArAAAAANIp_ZPobT1KOk_jMtOmhAPLkAIg"
                             onChange={(token) => {
                                 console.log("reCAPTCHA Token:", token); // בדיקה האם ה-token מתקבל
                                 setCaptchaToken(token);
